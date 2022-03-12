@@ -1,5 +1,5 @@
-- 👋  Hi, I’m @seerat89
-- 👀  I’m interested in JavaScript, ReactJs, Redux, Graphql, Norejs, Python and Django
+- 👋  Hi, I’m Seerat
+- 👀  I’m interested in JavaScript, ReactJs, Redux, Graphql, Nodejs, Python and Django
 - 🌱  I’m currently learning Redux, Graphql and Django
 - 📫  How to reach me by email
 
