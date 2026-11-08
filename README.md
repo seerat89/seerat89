@@ -1,16 +1,17 @@
 # Hi, I'm Seerat 👋
 
-I'm a software developer based in Finland with experience across frontend and backend development, APIs, integrations, databases, and modern web applications.
+**Software Developer · Finland**
 
-* 💻 Working with PHP, Laravel, React, JavaScript, and databases.
-* 🛠️ Experienced in building web applications and integrating third-party services.
-* 🌱 Currently expanding my skills in Python, cloud technologies, and AI.
+I'm a software developer specializing in **backend development, APIs, third-party integrations, and web applications**.
+
+My experience includes building and maintaining backend systems, integrating applications with **payment services and external business platforms**, working with **relational databases**, and improving existing codebases.
+
+My primary technologies are **PHP, Laravel, JavaScript, TypeScript, React, and SQL**. I'm also expanding my skills in **Python, AWS, and cloud technologies**, while exploring practical applications of AI in software development.
+
+🌐 **[Portfolio — seerat.me](https://seerat.me)**
+
+---
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My GitHub contribution koi">
+  <img src="koi/koi.gif" width="350" alt="Animated koi representing my GitHub contributions">
 </p>
-
-<!---
-seerat89/seerat89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
