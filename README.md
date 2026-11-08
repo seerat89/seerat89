@@ -6,8 +6,6 @@ I'm a software developer based in Finland with experience across frontend and ba
 * 🛠️ Experienced in building web applications and integrating third-party services.
 * 🌱 Currently expanding my skills in Python, cloud technologies, and AI.
 
-### 🐟 My Coding Koi
-
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My GitHub contribution koi">
 </p>
