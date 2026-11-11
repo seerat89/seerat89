@@ -8,8 +8,6 @@ My experience includes building and maintaining backend systems, integrating app
 
 My primary technologies are **PHP, Laravel, JavaScript, TypeScript, React, and SQL**. I'm also expanding my skills in **Python, AWS, and cloud technologies**, while exploring practical applications of AI in software development.
 
-🌐 **[Portfolio — seerat.me](https://seerat.me)**
-
 ---
 
 <p align="center">
